@@ -167,10 +167,9 @@ header{
 
 }
 
-/* .list-two{
+.list-two{
     width: calc((100% - 72px) / 4);
-
-} */
+}
 
 .section-two-titles-features{
     font-weight: 500;
