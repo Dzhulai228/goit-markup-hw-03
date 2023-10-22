@@ -161,13 +161,12 @@ header{
     overflow: hidden;
 }
 
-.features-menu{
+.benefits-list {
     display: flex;
     gap: 24px;
-
 }
 
-.list-two{
+.benefits-item {
     flex-basis: calc((100% - 72px) / 4);
 }
 
