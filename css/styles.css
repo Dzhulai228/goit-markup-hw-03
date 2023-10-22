@@ -80,6 +80,11 @@ header{
     color: #404bbf
 }
 
+.address-menu{
+    display: flex;
+    gap: 40px;
+}
+
 .link-adress{
     font-size: 16px;
     line-height: 1.5;
