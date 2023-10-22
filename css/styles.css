@@ -164,12 +164,11 @@ header{
 .features-menu{
     display: flex;
     gap: 24px;
-    width: calc((100% - 72px) / 4); 
 
 }
 
 .list-two{
-    width: calc((100% - 72px) / 4);
+    flex-basis: calc((100% - 72px) / 4);
 }
 
 .section-two-titles-features{
@@ -179,7 +178,7 @@ header{
     letter-spacing: 0.02em;
     color: #2e2f42;
     margin-bottom: 8px;
-    width: calc((100% - 72px) / 4);
+
 }
 
 .section-two-paragraph-features {
