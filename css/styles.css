@@ -145,8 +145,10 @@ header{
 
 .section-two{
     padding: 120px 0;
-    
+
 }
+
+.visually-hidden{}
 
 .section-two-titles-features{
     font-weight: 500;
