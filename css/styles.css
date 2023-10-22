@@ -161,6 +161,12 @@ header{
     overflow: hidden;
 }
 
+.list-two{
+    display: flex;
+    gap: 24px;
+    
+}
+
 .section-two-titles-features{
     font-weight: 500;
     font-size: 20px;
