@@ -161,10 +161,15 @@ header{
     overflow: hidden;
 }
 
-.list-two{
+.Features-menu{
     display: flex;
     gap: 24px;
-    
+
+}
+
+.list-two{
+    width: calc((100% - 72px) / 4);
+
 }
 
 .section-two-titles-features{
@@ -172,7 +177,8 @@ header{
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
-    color: #2e2f42;   
+    color: #2e2f42;
+    margin-bottom: 8px;
 }
 
 .section-two-paragraph-features {
