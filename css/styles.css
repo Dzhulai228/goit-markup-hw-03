@@ -131,8 +131,8 @@ header{
 }
 
 
-/* ==========section-two============ */
-/* ==========section-two============ */
+/* ==========section-one============ */
+/* ==========section-one============ */
 
 
 .section{
@@ -224,6 +224,7 @@ header{
 
 .section-three{
     background-color: #F4F4FD;
+    padding: 120px 0;
 }
 
 .section-three-title{
@@ -233,6 +234,8 @@ header{
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2e2f42;
+
+    margin-bottom: 72px;
 }
 
 .section-three-list{
